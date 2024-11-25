@@ -1,0 +1,6 @@
+DevOps vs. Agile: How are they different?
+
+Hide Answer
+DevOps and Agile are both methodologies used to improve software development and delivery, but they have different focuses and goals:
+
+Focus: Agile is focused primarily on the development process and the delivery of high-quality software, while DevOps is focused on the entire software delivery process, from development to operations.
